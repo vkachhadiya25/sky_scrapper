@@ -1,5 +1,3 @@
-![image2-portrait](https://github.com/vkachhadiya25/sky_scrapper/assets/131163362/872d49b3-7a21-44fb-a322-6d4fe5bbfaa7)# sky_scrapper
-
 A new Flutter project.
 
 ## Getting Started
